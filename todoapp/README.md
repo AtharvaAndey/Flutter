@@ -1,6 +1,6 @@
 # todoapp
 
-A new Flutter project.
+This is Atharva's To-Do App made using Flutter with Love ❤️
 
 ## Getting Started
 
